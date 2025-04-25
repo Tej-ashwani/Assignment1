@@ -15,7 +15,20 @@ A scalable, reusable design system using **React**, **TypeScript**, **TailwindCS
 
 ## 📁 Folder Structure
 
-src/ ├── components/ │ ├── Typography/ │ ├── TextInput/ │ ├── ToggleSwitch/ │ ├── Toast/ │ └── Modal/ ├── themes/ │ └── index.ts ├── stories/ │ └── *.stories.tsx ├── utils/ │ └── accessibility.ts └── App.tsx
+src/
+├── components/ │
+├── Typography/ │
+├── TextInput/ │
+├── ToggleSwitch/ │
+├── Toast/ │
+└── Modal/ ├
+── themes/ 
+│ └── index.ts ├
+── stories/ │
+└── *.stories.tsx ├
+── utils/ │
+└── accessibility.ts
+└── App.tsx
 
 
 ---
