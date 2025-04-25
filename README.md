@@ -2,6 +2,21 @@
 
 A scalable, reusable design system using **React**, **TypeScript**, **TailwindCSS**, and **Storybook**. Includes components for Typography, Data Entry, and Feedback — built for enterprise-grade accessibility, theming, and responsiveness.
 
+## 📦 Live Demo: https://silver-sprite-888a97.netlify.app/
+
+---
+
+## 📦 Sample
+![Screenshot (253)](https://github.com/user-attachments/assets/2c3a7a51-c85d-4b5c-b270-c9a283267450)
+
+ ![Screenshot (252)](https://github.com/user-attachments/assets/6db609dc-79a7-4e0d-9f90-690e9e2c26ea)
+
+![Screenshot (250)](https://github.com/user-attachments/assets/4c1eda4e-88da-4fa1-82eb-d779fad58369)
+
+![Screenshot (251)](https://github.com/user-attachments/assets/93391a1c-050b-46c3-ba64-d80ef8934905)
+
+![Screenshot (249)](https://github.com/user-attachments/assets/ab96d333-909d-48c4-ae1b-d7174c1766bd)
+
 ---
 
 ## 📦 Tech Stack
